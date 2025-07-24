@@ -28,7 +28,7 @@ let tempInput = prompt("Input temperature in Fahrenheit");
   alert(
     "It is currently " +
       tempInput +
-      " Fahrenheit, which is equivalent to " +
+      " degrees Fahrenheit, which is equivalent to " +
       formattedresult +
       " degrees Celsius." +
       " Based on the temperature description scale provided, it should feel " +
